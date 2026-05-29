@@ -24,16 +24,6 @@ The West Africa results suggest that borderland risk is not evenly distributed a
 
 The Colombia-Venezuela comparison shows that a similar borderland framework can be useful outside jihadist violence, but the interpretation changes. There, the relevant phenomenon is hybrid armed governance: insurgency, criminal economies, armed groups, and state fragmentation operating through frontier zones.
 
-## Maps
-
-### West Africa: Events by Border Band
-
-![Jihadist and militant events by distance to international land borders](outputs/maps/west_africa_events_by_border_band.png)
-
-### West Africa: Coastal Spillover Risk Index v2
-
-![Coastal spillover risk index by border segment](outputs/maps/west_africa_coastal_spillover_index_v2.png)
-
 ### West Africa: Operational Geography
 
 ![Protected areas, major roads, and coastal spillover events](outputs/maps/west_africa_operational_geography.png)
