@@ -1,8 +1,8 @@
 # Border Spillover Risk in Armed Conflict
 
-This project develops a geospatial risk-screening framework for identifying frontier zones exposed to armed spillover. It uses the Global Terrorism Index 2026 border-proximity trend as a starting point, then turns that macro finding into a border-level analytical product.
+This project develops a geospatial risk-screening framework for identifying frontier zones exposed to armed spillover. It uses the Global Terrorism Index 2026 border-proximity trend as a starting point, and it's built on ACLED event data.
 
-The main case is jihadist and militant violence in West Africa, with a focus on Sahel-to-coastal spillover. A shorter comparative case applies the same borderland logic to hybrid armed violence on the Colombia-Venezuela border.
+The main case is jihadist violence in West Africa, with a focus on Sahel-to-coastal spillover. A shorter comparative case applies the same logic to hybrid armed violence on the Colombia-Venezuela border.
 
 ## Research Question
 
@@ -128,8 +128,6 @@ Short version:
 `-- requirements.txt
 ```
 
-The `data/` directory is ignored by Git because it contains raw and event-level processed data. The repository is designed to publish code, methodology, maps, and aggregate tables.
-
 ## Reproduce
 
 Install dependencies:
@@ -161,6 +159,6 @@ python3 scripts/download_geofabrik_gpkg.py --set west_africa_core
 
 ## Interpretation Notes
 
-This is a risk-screening framework, not a forecast. A high score means that observed indicators align with a border-spillover risk logic. It does not estimate the probability of a future attack.
+This is a screening tool, not a forecast. A high score means observed indicators align with a spillover risk logic, it does not estimate the probability of a future attack.
 
 The Colombia-Venezuela case is not treated as terrorism. It is included to test whether the same borderland exposure logic helps interpret a different armed ecosystem shaped by insurgency, organized crime, illicit economies, and fragmented state control.
