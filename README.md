@@ -2,7 +2,7 @@
 
 This project develops a geospatial risk-screening framework for identifying frontier zones exposed to armed spillover. It uses the Global Terrorism Index 2026 border-proximity trend as a starting point, and it's built on ACLED event data.
 
-The main case is jihadist violence in West Africa, with a focus on Sahel-to-coastal spillover. A shorter comparative case applies the same logic to hybrid armed violence on the Colombia-Venezuela border.
+The main case is jihadist violence in West Africa, with a focus on Sahel-to-coastal spillover. A comparative case applies the same logic to hybrid armed violence on the Colombia-Venezuela border.
 
 ## Research Question
 
@@ -12,7 +12,7 @@ How do armed groups use borderlands to expand operational reach, and which indic
 
 | Output | Description |
 |:--|:--|
-| Border Militancy Exposure Index | Identifies border dyads where militant violence is already concentrated |
+| Border Militancy Exposure Index | Identifies border dyads where militant violence is already concentrated, contributing to Coastal Spillover Risk Index v2 |
 | Coastal Spillover Risk Index v2 | Ranks Sahel-to-coastal border segments by observed spillover indicators |
 | Hybrid Border Violence Exposure Index | Comparative Colombia-Venezuela stress test by frontier zone |
 | Static maps | Border bands, risk-ranked border segments, operational geography, and comparative border exposure |
