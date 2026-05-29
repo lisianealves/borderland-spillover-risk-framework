@@ -81,35 +81,6 @@ Short version:
 7. Build risk-screening scores by border dyad or frontier zone.
 8. Map and compare the resulting exposure patterns.
 
-## Repository Structure
-
-```text
-.
-|-- README.md
-|-- docs/
-|   `-- methodology.md
-|-- scripts/
-|   |-- build_acled_jihadist_events.py
-|   |-- add_border_distance.py
-|   |-- add_operational_geography_west_africa.py
-|   |-- build_border_spillover_index_v1.py
-|   |-- build_coastal_spillover_risk_index_v1.py
-|   |-- build_coastal_spillover_risk_index_v2.py
-|   |-- build_acled_colombia_venezuela_events.py
-|   |-- add_colombia_venezuela_border_distance.py
-|   |-- build_hybrid_border_violence_index_v1.py
-|   |-- download_geofabrik_gpkg.py
-|   `-- make_maps.py
-|-- outputs/
-|   |-- charts/
-|   |-- maps/
-|   `-- tables/
-|-- data/
-|   |-- raw/
-|   `-- processed/
-`-- requirements.txt
-```
-
 ## Reproduce
 
 Install dependencies:
