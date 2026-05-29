@@ -1,0 +1,9 @@
+pandas
+geopandas
+shapely
+pyproj
+fiona
+pyogrio
+rtree
+matplotlib
+Pillow
