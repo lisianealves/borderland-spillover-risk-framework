@@ -10,6 +10,8 @@ How do armed groups use borderlands to expand operational reach, and which indic
 
 ## Project Outputs
 
+[See notebook on nbviwer](https://nbviewer.org/github/lisianealves/borderland-spillover-risk-framework/blob/main/notebooks/border_spillover_analysis.ipynb)
+
 | Output | Description |
 |:--|:--|
 | Border Militancy Exposure Index | Identifies border dyads where militant violence is already concentrated, contributing to Coastal Spillover Risk Index v2 |
